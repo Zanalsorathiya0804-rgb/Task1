@@ -18,4 +18,4 @@ To understand the core structure of web pages and implement basic styling and sc
 ---
 
 *Internship: ApexPlanet Software Ltd*  
-*Task 1 of 9*
+*Task 1 of 5*
